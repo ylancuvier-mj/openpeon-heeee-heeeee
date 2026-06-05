@@ -1,0 +1,35 @@
+{
+  "cesp_version": "1.0",
+  "name": "heeee-heeeee",
+  "display_name": "Heeee Heeeee",
+  "version": "1.0.0",
+  "description": "Michael Jackson screaming",
+  "author": {
+    "name": "ylan",
+    "github": "ylancuvier-mj"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/greeting.mp3", "label": "Hello!" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/done.mp3", "label": "Task done" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/error.mp3", "label": "Oops" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/attention.mp3", "label": "Need input" }
+      ]
+    }
+  }
+}
