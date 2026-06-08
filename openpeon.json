@@ -30,6 +30,16 @@
       "sounds": [
         { "file": "sounds/attention.mp3", "label": "Need input" }
       ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/attention.mp3", "label": "Resource limit" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/attention.mp3", "label": "Task acknowledge" }
+      ]
     }
   }
 }
