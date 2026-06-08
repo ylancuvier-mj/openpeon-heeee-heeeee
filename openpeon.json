@@ -33,12 +33,12 @@
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/attention.mp3", "label": "Resource limit" }
+        { "file": "sounds/limit.mp3", "label": "Resource limit" }
       ]
     },
     "task.acknowledge": {
       "sounds": [
-        { "file": "sounds/attention.mp3", "label": "Task acknowledge" }
+        { "file": "sounds/acknowledge.mp3", "label": "Task acknowledge" }
       ]
     }
   }
